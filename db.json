@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Sergio Alejandro Barrera",
+      "empresa": "E-learning Solutions",
+      "email": "sabarrera@e-learning.com.co",
+      "telefono": "3165213750",
+      "notas": "Full Stack",
+      "id": 1
+    },
+    {
+      "nombre": "Oscar Eduardo Barrera",
+      "empresa": "E-learning Solutions",
+      "email": "obarrera@e-learning.com.co",
+      "telefono": "3165213750",
+      "notas": "Desarrollador Full Stack",
+      "id": 2
+    },
+    {
+      "nombre": "Juan Sebastian Barrera",
+      "empresa": "O'Tech",
+      "email": "juans@otech.com",
+      "telefono": "3165213750",
+      "notas": "Empresa de Tecnología",
+      "id": 3
+    },
+    {
+      "nombre": "Santiago Andres Barrera",
+      "empresa": "E-learning Solutions",
+      "email": "santiago.barrera@empresa.com",
+      "telefono": "3152324478",
+      "notas": "Comercio exterior",
+      "id": 4
+    }
+  ]
+}
